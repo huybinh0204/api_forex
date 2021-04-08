@@ -1,0 +1,15 @@
+{
+  "name": "admins",
+  "table_admin": "admins",
+  "web_name": "/websile/admins/",
+  "api_name": "/api/",
+  "add": "add/",
+  "edit": "edit/",
+  "detele": "detele/",
+  "version": "0.0.1",
+  "author": "API Core",
+  "is_active": true,
+  "is_core": true,
+  "package_require": "",
+  "modules": []
+}
